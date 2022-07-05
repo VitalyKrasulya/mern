@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "b2f9dac1-2643-43f5-99ba-fff7eee7c274",
+  "mongoUri": "mongodb+srv://vitaly:EVJ4AkvpoQOU3zP0@cluster0.nh8ifrf.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000/"
+}

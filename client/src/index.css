@@ -1,0 +1,10 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.auth-card input, .auth-card label {
+	color: white!important;
+}
+
+a.active{
+	text-decoration: underline;
+	font-style: italic;
+}
